@@ -10,10 +10,12 @@ Sunrin Internet High School, Software Division
 Inchun National University, Computer science & Engineering
 
  ### 기술 
-- **핵심** Android(Java, Kotlin)
-- **지엽** Python, JavaScript
-- **공부중** Jetpack Compose
+- **핵심**   Android(*Java*, *Kotlin*)
+- **지엽**   *Python*, *JavaScript*
+- **공부중**   *Jetpack Compose*
 
+### 블로그
+- [Artu의 블로그](https://jiyoungjung.hashnode.dev/) *written by Hashnode*
 
 ## 나의 개발 일지
 
