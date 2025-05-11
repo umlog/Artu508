@@ -14,7 +14,7 @@ Inchun National University, Computer science & Engineering
 - **공부중**   *Jetpack Compose*
 
 ### 블로그
-/* - [Artu의 블로그](https://jiyoungjung.hashnode.dev/) *written by Hashnode* */
+<!-- - [Artu의 블로그](https://jiyoungjung.hashnode.dev/) *written by Hashnode* -->
 
 ## 나의 개발 일지
 
