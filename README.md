@@ -1,6 +1,5 @@
-## 예술과 같은 서비스를 위하여
-## I'm Artu 👋
- 안녕하세요 아투입니다
+## I'm Umlog 👋
+ 안녕하세요 개발하는 정지영 입니다
  
  ### 프로필 
 - **선린인터넷고등학교 소프트웨어과** 졸업 (2020 ~ 2022)  
@@ -15,7 +14,7 @@ Inchun National University, Computer science & Engineering
 - **공부중**   *Jetpack Compose*
 
 ### 블로그
-- [Artu의 블로그](https://jiyoungjung.hashnode.dev/) *written by Hashnode*
+/* - [Artu의 블로그](https://jiyoungjung.hashnode.dev/) *written by Hashnode* */
 
 ## 나의 개발 일지
 
